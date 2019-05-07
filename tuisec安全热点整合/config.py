@@ -1,0 +1,6 @@
+USERNAME='root'
+PASSWORD='root'
+HOST='localhost'
+DATABASE='xiao'
+PORT=3306
+TIME=300
